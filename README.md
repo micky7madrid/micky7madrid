@@ -1,6 +1,6 @@
 # Mikael Syed 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mikaelsyed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelsyed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelsyed31@gmail.com)
 
 > CS Graduate · Data Analyst · Mississauga, ON 🇨🇦
