@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikaelsyed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikaelsyed31@gmail.com)
 
-> CS Graduate · Data Analyst · Mississauga, ON 🇨🇦
+> CS Graduate · Data Analyst · Toronto, ON 🇨🇦
 
 ---
 
@@ -14,7 +14,7 @@
 - 📊 Building projects with Python, SQL, and Power BI
 - 🔐 Currently studying for **CompTIA Security+**
 - ⚡ Fun fact: I went from film editor → retail → data analyst. Unconventional path, strong analytical instincts.
-
+- 🏏 Crazy cricket fan · ⚽ Lifelong Real Madrid supporter (Hala Madrid! 🤍)
 ---
 
 ## 🛠️ Tech Stack
